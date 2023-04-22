@@ -6,3 +6,7 @@ https://tchumim.com/topic/4689/%D7%9E%D7%99-%D7%A2%D7%95%D7%93-%D7%9E%D7%A9%D7%A
 by @יוסף-בן-שמעון.
 In order to force RTL in the Google browser.
 Effective in cases of automatic translation and more.
+
+#how to use
+Download the RTL.RAR folder.
+Extract it and add it as a chrome extension (unpackaged).
